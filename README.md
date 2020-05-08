@@ -3,7 +3,7 @@
  
 **Before to start using it, please download the following packages and include in the RT-NET main folder**
 * [external](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
-* [External_visualization_real_time](https://github.com/robertogunstall)
+* [External_visualization_real_time](https://github.com/robertoguarnieri/rtnet/releases/tag/External_visualization_real_time)
 * [External to install](https://github.com/robertoguarnieri/rtnet/releases/tag/External_to_install)
 * [template](http://www.fieldtriptoolbox.org/)
 
